@@ -97,6 +97,30 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/workshops/"/>
   </url>
   <url>
+    <loc>https://weissraum-eltville.github.io/submissions/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/submissions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/submissions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/submissions/"/>
+  </url>
+  <url>
+    <loc>https://weissraum-eltville.github.io/en/submissions/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/submissions/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/submissions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/submissions/"/>
+  </url>
+  <url>
+    <loc>https://weissraum-eltville.github.io/submissions/einreichen/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/submissions/einreichen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/submissions/einreichen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/submissions/einreichen/"/>
+  </url>
+  <url>
+    <loc>https://weissraum-eltville.github.io/en/submissions/einreichen/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/submissions/einreichen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/submissions/einreichen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/submissions/einreichen/"/>
+  </url>
+  <url>
     <loc>https://weissraum-eltville.github.io/impressum/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/impressum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/impressum/"/>
