@@ -157,6 +157,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/kuenstler/birgid-helmy/"/>
   </url>
   <url>
+    <loc>https://weissraum-eltville.github.io/kuenstler/petra-van-husen/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/kuenstler/petra-van-husen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/kuenstler/petra-van-husen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/kuenstler/petra-van-husen/"/>
+  </url>
+  <url>
+    <loc>https://weissraum-eltville.github.io/en/kuenstler/petra-van-husen/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/kuenstler/petra-van-husen/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/kuenstler/petra-van-husen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weissraum-eltville.github.io/kuenstler/petra-van-husen/"/>
+  </url>
+  <url>
     <loc>https://weissraum-eltville.github.io/kuenstler/yvonne-diefenbach/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://weissraum-eltville.github.io/kuenstler/yvonne-diefenbach/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://weissraum-eltville.github.io/en/kuenstler/yvonne-diefenbach/"/>
